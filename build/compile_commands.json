@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/thedekk/Документы/CppJson/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/CppJson.dir/CppJson.cpp.o -c /home/thedekk/Документы/CppJson/CppJson.cpp",
+  "file": "/home/thedekk/Документы/CppJson/CppJson.cpp",
+  "output": "CMakeFiles/CppJson.dir/CppJson.cpp.o"
+}
+]

@@ -1,0 +1,3 @@
+/home/thedekk/Документы/CppJson/build/CMakeFiles/CppJson.dir
+/home/thedekk/Документы/CppJson/build/CMakeFiles/edit_cache.dir
+/home/thedekk/Документы/CppJson/build/CMakeFiles/rebuild_cache.dir
